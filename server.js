@@ -14,5 +14,5 @@ app.use(cors());
 
 
 app.listen(PORT, () => {
-	debug('Server active on port: ', PORT);
+  debug('Server active on port: ', PORT);
 });
